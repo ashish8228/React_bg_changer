@@ -7,3 +7,6 @@ This project is a simple background color changer application built using React.
 Interactive Buttons: Users can click on any of the color buttons to change the background color of the webpage.
 
 Color Options: The application provides five color options: Red, Green, Blue, Pink, and Yellow.
+
+
+deploy link https://reactbackgroundchaanger.netlify.app/
